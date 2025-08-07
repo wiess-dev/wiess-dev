@@ -60,7 +60,7 @@ Hi, there!👋
 <div align="center">
         <img alt="wiess-dev's Stats" src="https://github-readme-stats.vercel.app/api?username=wiess-dev&theme=react&show_icons=true&hide_border=true&count_private=true" height="150px" />
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=wiess-dev&theme=react&hide_border=true" height="150px" />
-        <img alt="wiess-dev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiess-dev&theme=react&show_icons=true&hide_border=true&layout=compact" height="150px" />
+        <img alt="wiess-dev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiess-dev&theme=react&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 
