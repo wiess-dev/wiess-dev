@@ -30,10 +30,10 @@ Hi, there!👋
   <img title="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />&nbsp;
   <img title="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" />&nbsp;
   <img title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" />&nbsp;
-  <img title="Express" src="https://devicon-website.vercel.app/api/express/original.svg?color=%23FFFFFF" width="40" height="40" />&nbsp;
+  <img title="Express" src="https://devicon-website.vercel.app/api/express/original.svg?color=%23000000" width="40" height="40" />&nbsp;
   <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" />&nbsp;
   <img title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />&nbsp;
-  <img title="GitHub" src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" width="40" height="40" />&nbsp;
+  <img title="GitHub" src="https://devicon-website.vercel.app/api/github/original.svg?color=%23000000" width="40" height="40" />&nbsp;
   <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />&nbsp;
 </p>
 
