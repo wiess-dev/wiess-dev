@@ -58,19 +58,9 @@ Hi, there!👋
 ### 📊 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
         <img alt="wiess-dev's Stats" src="https://github-readme-stats.vercel.app/api?username=wiess-dev&theme=react&show_icons=true&hide_border=true&count_private=true" height="150px" />
-      </td>
-      <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=wiess-dev&theme=react&hide_border=true" height="150px" />
-      </td>
-      <td>
         <img alt="wiess-dev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiess-dev&theme=react&show_icons=true&hide_border=true&layout=compact" height="150px" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 
