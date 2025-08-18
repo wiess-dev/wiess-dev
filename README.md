@@ -17,6 +17,8 @@ Hi, there!👋
 ```
 ![Profile  view counter on GitHub](https://komarev.com/ghpvc/?username=wiess-dev)
 
+https://komarev.com/ghpvc/?wiess-dev=your-github-username
+
 ---
 
 ### 🧠 Tech Stack
