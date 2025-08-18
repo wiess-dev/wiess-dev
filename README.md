@@ -33,6 +33,7 @@ Hi, there!👋
   <img title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" />&nbsp;
   <img title="Express" src="https://devicon-website.vercel.app/api/express/original.svg?color=%23000000" width="40" height="40" />&nbsp;
   <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" />&nbsp;
+<img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" />&nbsp;
   <img title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />&nbsp;
   <img title="GitHub" src="https://devicon-website.vercel.app/api/github/original.svg?color=%23000000" width="40" height="40" />&nbsp;
   <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />&nbsp;
@@ -46,8 +47,8 @@ Hi, there!👋
     <th>🖼 Tools</th>
   </tr>
   <tr>
-    <td>HTML, CSS, JavaScript, React, TailwindCSS, Next.js</td>
-    <td>Node.js, Express</td>
+    <td>HTML, CSS, JavaScript, React, TailwindCSS, Next.js, Typescript</td>
+    <td>Node.js, Express, Typescript</td>
     <td>MongoDB</td>
     <td>VS Code, GitHub, Git</td>
   </tr>
