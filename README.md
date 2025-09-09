@@ -17,6 +17,7 @@ Hi, there!👋
 ```
 
 ![](https://komarev.com/ghpvc/?username=wiess-dev)
+![](https://komarev.com/ghpvc/?username=wiess-dev)
 
 ---
 
