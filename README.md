@@ -5,6 +5,8 @@
 ```
 Hi, there!👋
 
+😸Pronouns: He/Him.
+
 💻I'm a self taught Progammer.
 
 💥My first programmig language is Python.
@@ -13,7 +15,6 @@ Hi, there!👋
 
 🤗Fun fact: I have a strong foundation in Mathematics.
 
-💡 Always learning. Always building.
 ```
 ---
 
