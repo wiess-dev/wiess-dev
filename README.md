@@ -5,15 +5,15 @@
 ```
 Hi, there!👋
 
-😸Pronouns: He/Him.
+😸 Pronouns: He/Him.
 
-💻I'm a self taught Progammer.
+💻 I'm a self taught Progammer.
 
-💥My first programmig language is Python.
+💥 My first programmig language is Python.
 
 🎓 I'm an incoming Computer Science student and a recent STEM graduate.
 
-🤗Fun fact: I have a strong foundation in Mathematics.
+🤗 Fun fact: I have a strong foundation in Mathematics.
 
 ```
 ---
