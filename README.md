@@ -15,9 +15,6 @@ Hi, there!👋
 
 💡 Always learning. Always building.
 ```
-
-![](https://komarev.com/ghpvc/?username=wiess-dev)
-
 ---
 
 ### 🧠 Tech Stack
